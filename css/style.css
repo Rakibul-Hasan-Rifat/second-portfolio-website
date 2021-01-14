@@ -1,0 +1,50 @@
+#head-section{
+    background-color: #fffff4;
+    margin:0;
+    padding:0;
+    width: 100vw;
+}
+.navbar-brand{
+    font-family: 'Passion One', cursive;
+}
+
+h1{
+    letter-spacing: 5px;
+    word-spacing: 5px;
+}
+
+h1 span, .navbar-brand #brand{
+    color: #7fc686;
+}
+
+h1 span{
+    display: block;
+}
+ .navbar-nav{
+     font-weight: 700;
+ }
+ 
+button.btn, a.btn{
+    background-color: #2a1e59;
+    outline: none;
+}
+
+#first-section{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #363958;
+}
+
+h3{
+    color: #76c27e;
+    font-size: 35px;
+}
+
+h4{
+    font-weight: 900;
+    color: #363958;
+}
